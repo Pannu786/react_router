@@ -122,9 +122,9 @@ form[action$="destroy"] button {
   align-items: center;
   margin: 0;
   padding: 1rem 2rem;
-  border-top: 1px solid #e3e3e3;
-  order: 1;
+  border-top: 1px solid #c41717;
   line-height: 1;
+  order: 1;
 }
 
 #sidebar h1::before {
@@ -140,7 +140,7 @@ form[action$="destroy"] button {
   gap: 0.5rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #e3e3e3;
+  border-bottom: 1px solid #f10909;
 }
 
 #sidebar > div form {
